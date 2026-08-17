@@ -6,3 +6,10 @@
 - Add colours to terminal output
 - Option to choosehow many questions to answer
 - Add function to randomly select words
+
+
+## How to run the game
+
+```js
+node main.js
+```
